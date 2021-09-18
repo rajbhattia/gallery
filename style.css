@@ -1,0 +1,20 @@
+body{
+    background-color: lawngreen;
+}
+
+h1{
+   
+    margin-top: 25px;
+
+}
+button{
+ color:  blue ;
+background-color: gray;
+padding: 5px;
+border-radius: 5px;
+
+
+}
+#h{
+    color: white;
+}
